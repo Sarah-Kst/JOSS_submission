@@ -1,4 +1,4 @@
-# Requirements
+# Code Requirements
 
 - [ ] Release FiberSim under a license
 - [ ] Repo must be clonable/browsable without registration
